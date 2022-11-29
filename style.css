@@ -1,3 +1,9 @@
 #dog {
     display: none;
 }
+
+#interactables {
+    display: block;
+    font-size: large;
+    center: 50%;
+}
